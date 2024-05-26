@@ -1,0 +1,27 @@
+.mobile-app-container {
+  background-image: (
+    'https://www.freepik.com/search?ai=excluded&format=search&img=1&last_filter=img&last_value=1&query=mobile+app+showcase+background&type=photo'
+  );
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.heading {
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+.detail {
+  color: grey;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.read {
+  background-color: #000000;
+  border-radius: 30px;
+  color: #ffffff;
+  height: 50px;
+  width: 120px;
+}
