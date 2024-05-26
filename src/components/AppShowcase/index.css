@@ -1,7 +1,5 @@
 .mobile-app-container {
-  background-image: (
-    'https://www.freepik.com/search?ai=excluded&format=search&img=1&last_filter=img&last_value=1&query=mobile+app+showcase+background&type=photo'
-  );
+  background-image: 'https://www.freepik.com/search?ai=excluded&format=search&img=1&last_filter=img&last_value=1&query=mobile+app+showcase+background&type=photo';
   background-size: cover;
   height: 100vh;
   width: 100vw;
