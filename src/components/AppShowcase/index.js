@@ -5,9 +5,9 @@ class AppShowcase extends Component {
   render() {
     return (
       <div className="mobile-app-container">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             data-toggle="collapse"
             data-target="#navbarNavAltMarkup"
@@ -15,25 +15,25 @@ class AppShowcase extends Component {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon"></span>
+            <span className="navbar-toggler-icon"> </span>
           </button>
-          <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-              <a class="nav-link active" href="#">
+          <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div className="navbar-nav">
+              <a className="nav-link active" href="1">
                 Home
               </a>
-              <a class="nav-link" href="#">
+              <a className="nav-link" href="2">
                 About Us
               </a>
-              <a class="nav-link" href="#">
+              <a className="nav-link" href="3">
                 Features
               </a>
-              <a class="nav-link" href="#">
+              <a className="nav-link" href="4">
                 Contact
               </a>
               <a
-                class="nav-link disabled"
-                href="#"
+                className="nav-link disabled"
+                href="5"
                 tabindex="-1"
                 aria-disabled="true"
               >
