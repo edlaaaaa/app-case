@@ -19,21 +19,21 @@ class AppShowcase extends Component {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-              <a className="nav-link active" href="1">
+              <a className="nav-link active" href="#">
                 Home
               </a>
-              <a className="nav-link" href="2">
+              <a className="nav-link" href="#">
                 About Us
               </a>
-              <a className="nav-link" href="3">
+              <a className="nav-link" href="#">
                 Features
               </a>
-              <a className="nav-link" href="4">
+              <a className="nav-link" href="#">
                 Contact
               </a>
               <a
                 className="nav-link disabled"
-                href="5"
+                href="#"
                 tabindex="-1"
                 aria-disabled="true"
               >
